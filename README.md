@@ -16,4 +16,3 @@ Here are some ideas to get you started:
 -->
 
 I'm Nancy - nice to meet you!
-- 😄 Pronouns: she/her/hers
