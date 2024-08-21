@@ -16,3 +16,4 @@ Here are some ideas to get you started:
 -->
 
 I'm Nancy - nice to meet you!
+Currently studying Computer Science and Mathematics at Tufts School of Engineering. 
